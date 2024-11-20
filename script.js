@@ -17,3 +17,5 @@ employees.forEach((name, index) => {
 })
 
 // Pro Git
+
+//Pokus o push s kolizí 
